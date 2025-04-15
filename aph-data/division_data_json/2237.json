@@ -1,0 +1,431 @@
+{
+    "divisionId": 2237,
+    "divisionNumber": 378,
+    "title": "Net Zero Economy Authority Bill 2024",
+    "question": "Detail amendments\u2014That the amendments (9) to (11), (16) and (17) be agreed to",
+    "mover": {
+        "parliamentarianId": "282335",
+        "name": "Dr Haines"
+    },
+    "votesUrl": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fvotes%2F0cb65416-069e-4354-80d3-d3da02437d1c%2F0000%22",
+    "ayes": 8,
+    "noes": 29,
+    "date": "2024-06-04T17:21:01.503",
+    "result": 2,
+    "castingVoteReason": "",
+    "votes": [
+        {
+            "voteId": 333901,
+            "parliamentarianName": "Ms Belyea",
+            "parliamentarianId": "309484",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333908,
+            "parliamentarianName": "Mr Burnell",
+            "parliamentarianId": "300129",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333916,
+            "parliamentarianName": "Ms Chaney",
+            "parliamentarianId": "300006",
+            "partyId": 290,
+            "partyName": "Independent",
+            "partyColour": "#cbc9cd",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 1
+        },
+        {
+            "voteId": 333919,
+            "parliamentarianName": "Ms Chesters",
+            "parliamentarianId": "249710",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333921,
+            "parliamentarianName": "Ms Claydon",
+            "parliamentarianId": "248181",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333928,
+            "parliamentarianName": "Ms Daniel",
+            "parliamentarianId": "008CH",
+            "partyId": 290,
+            "partyName": "Independent",
+            "partyColour": "#cbc9cd",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 1
+        },
+        {
+            "voteId": 333929,
+            "parliamentarianName": "Ms Doyle",
+            "parliamentarianId": "299962",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333932,
+            "parliamentarianName": "Mrs Elliot",
+            "parliamentarianId": "DZW",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333933,
+            "parliamentarianName": "Mr Entsch",
+            "parliamentarianId": "7K6",
+            "partyId": 300,
+            "partyName": "Liberal National Party of Queensland",
+            "partyColour": "#1456F1",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333935,
+            "parliamentarianName": "Mr Fletcher",
+            "parliamentarianId": "L6B",
+            "partyId": 288,
+            "partyName": "Liberal Party of Australia",
+            "partyColour": "#0047AB",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333939,
+            "parliamentarianName": "Mr Georganas",
+            "parliamentarianId": "DZY",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333943,
+            "parliamentarianName": "Mr Gorman",
+            "parliamentarianId": "74519",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333945,
+            "parliamentarianName": "Dr Haines",
+            "parliamentarianId": "282335",
+            "partyId": 290,
+            "partyName": "Independent",
+            "partyColour": "#cbc9cd",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 1
+        },
+        {
+            "voteId": 333949,
+            "parliamentarianName": "Mr Hill",
+            "parliamentarianId": "86256",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333967,
+            "parliamentarianName": "Dr Leigh",
+            "parliamentarianId": "BU8",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333978,
+            "parliamentarianName": "Ms Mascarenhas",
+            "parliamentarianId": "298800",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333979,
+            "parliamentarianName": "Ms Miller-Frost ",
+            "parliamentarianId": "296272",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333982,
+            "parliamentarianName": "Dr Mulino",
+            "parliamentarianId": "132880",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333983,
+            "parliamentarianName": "Mr Neumann",
+            "parliamentarianId": "HVO",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333984,
+            "parliamentarianName": "Mr Ted O'Brien",
+            "parliamentarianId": "138932",
+            "partyId": 300,
+            "partyName": "Liberal National Party of Queensland",
+            "partyColour": "#1456F1",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333989,
+            "parliamentarianName": "Ms Payne",
+            "parliamentarianId": "144732",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333991,
+            "parliamentarianName": "Mr Perrett",
+            "parliamentarianId": "HVP",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 333999,
+            "parliamentarianName": "Dr Reid",
+            "parliamentarianId": "300126",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334002,
+            "parliamentarianName": "Ms Roberts",
+            "parliamentarianId": "157125",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334004,
+            "parliamentarianName": "Ms J Ryan",
+            "parliamentarianId": "249224",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334006,
+            "parliamentarianName": "Dr Scamps",
+            "parliamentarianId": "299623",
+            "partyId": 290,
+            "partyName": "Independent",
+            "partyColour": "#cbc9cd",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 1
+        },
+        {
+            "voteId": 334007,
+            "parliamentarianName": "Ms Scrymgour",
+            "parliamentarianId": "F2S",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334011,
+            "parliamentarianName": "Mr Smith",
+            "parliamentarianId": "276714",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334012,
+            "parliamentarianName": "Ms Spender",
+            "parliamentarianId": "286042",
+            "partyId": 290,
+            "partyName": "Independent",
+            "partyColour": "#cbc9cd",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 1
+        },
+        {
+            "voteId": 334013,
+            "parliamentarianName": "Ms Stanley",
+            "parliamentarianId": "265990",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334014,
+            "parliamentarianName": "Ms Steggall",
+            "parliamentarianId": "175696",
+            "partyId": 290,
+            "partyName": "Independent",
+            "partyColour": "#cbc9cd",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 1
+        },
+        {
+            "voteId": 334020,
+            "parliamentarianName": "Ms Templeman",
+            "parliamentarianId": "181810",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334023,
+            "parliamentarianName": "Ms Thwaites",
+            "parliamentarianId": "282212",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334024,
+            "parliamentarianName": "Ms Tink",
+            "parliamentarianId": "300124",
+            "partyId": 290,
+            "partyName": "Independent",
+            "partyColour": "#cbc9cd",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 1
+        },
+        {
+            "voteId": 334027,
+            "parliamentarianName": "Mr Vasta",
+            "parliamentarianId": "E0D",
+            "partyId": 300,
+            "partyName": "Liberal National Party of Queensland",
+            "partyColour": "#1456F1",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334032,
+            "parliamentarianName": "Mr Watts",
+            "parliamentarianId": "193430",
+            "partyId": 287,
+            "partyName": "Australian Labor Party",
+            "partyColour": "#DE3533",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 2
+        },
+        {
+            "voteId": 334035,
+            "parliamentarianName": "Mr Wilkie",
+            "parliamentarianId": "C2T",
+            "partyId": 290,
+            "partyName": "Independent",
+            "partyColour": "#cbc9cd",
+            "proxy": false,
+            "pair": false,
+            "voteResultId": 1
+        }
+    ],
+    "bills": [
+        {
+            "parlinfoBillId": "r7177",
+            "title": "Net Zero Economy Authority Bill 2024"
+        }
+    ]
+}
